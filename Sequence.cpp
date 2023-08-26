@@ -16,5 +16,4 @@ int main()
     cout << " " << a << "";
     a = a * r;
   }
-  return 0;
 }
